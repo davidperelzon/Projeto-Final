@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Nativ Ivrit",
+    "slug": "nativ-ivrit",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    }
+  }
+}

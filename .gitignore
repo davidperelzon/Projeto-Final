@@ -1,0 +1,19 @@
+# Dependências e arquivos gerados (não enviar para o GitHub)
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Segredos: nunca versionar chaves de API ou senhas
+.env
+.env.*
+*.pem
+*.key
+
+# Logs e arquivos do sistema
+npm-debug.log*
+*.log
+.DS_Store
+
+diagnostico.txt
+.diag-*/
